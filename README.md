@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a content management platform for digital signage and a voice-enabled drive-thru ordering system.  
-<br>👯 I’m looking to collaborate on full-stack web apps, React/Spring Boot projects, or data-driven solutions for real-world problems.
+<br> 🔭 I’m currently working on a content management platform for digital signage and a voice-enabled drive-thru ordering system.  
+👯 I’m looking to collaborate on full-stack web apps, React/Spring Boot projects, or data-driven solutions for real-world problems.
 <br>🤝 I’m looking for help with refining DevOps workflows and advanced analytics integration.
 <br>🌱 I’m currently learning about cloud architecture (AWS), scalable backend design, and computer vision analytics. 
 <br>💬 Ask me about React, Zustand, Spring Boot, PostgreSQL, or building scalable APIs.
